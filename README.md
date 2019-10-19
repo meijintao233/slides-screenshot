@@ -34,3 +34,7 @@ screenshot({
 `publicPath` :string --- local diretory
 
 ---
+
+### support
+
+- www.slides.com
