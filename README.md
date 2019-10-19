@@ -7,7 +7,7 @@ export local slides
 ## Install
 
 ```
-npm i mulit-article-publisher
+npm i slides-screenshot
 ```
 
 ---

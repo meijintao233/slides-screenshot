@@ -20,6 +20,14 @@
   ],
   "author": "charliemei",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meijintao233/slides-screenshot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/meijintao233/slides-screenshot/issues"
+  },
+  "homepage": "https://github.com/meijintao233/slides-screenshot#readme",
   "dependencies": {
     "puppeteer": "^1.20.0",
     "puppeteer-core": "^1.20.0"
